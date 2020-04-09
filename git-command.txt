@@ -1,0 +1,25 @@
+create a folder in any drive ith any name.
+
+1) git clone https://github.com/kuldeepjha/powerBi
+
+- after git clone close the "cmd" 
+- then go inside the of "powerBi"
+---------------------------------------------------------
+- save powerBI related plugin inside the "powerBi" folder
+
+---------------------------------------------------------
+right click and go to "git bash hear"
+
+2) git status
+
+3) git pull
+
+4) git add -A
+
+5) git commit -m "message"
+
+6) git push
+
+
+
+
